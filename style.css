@@ -1,0 +1,77 @@
+
+img {
+    width: 41%;
+}
+
+#paragrafo1 {
+
+    background-color: rgb(214, 169, 44);
+    color: rgb(94, 87, 100);
+    width: 480px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.1em;
+}
+
+body {
+    background-color: rgba(51, 50, 50, 0.212);
+    text-align: center;
+}
+
+p {
+    color: rgb(46, 46, 61);
+    font-size: 135%;
+}
+
+
+h1, h2, h3 {
+    color: rgb(32, 37, 53);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+a {
+    background-color: rgb(214, 169, 44);
+    color: rgb(94, 87, 100);
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
+
+ul {
+    color: rgb(94, 87, 100);
+    font-size: 135%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-image: url('imagem/Texto do seu parágrafo.png');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    font-size: 3em;
+}
+.caixa-geral {
+    background-color: #f3f3f3e0;
+    width: 100%;              
+    max-width: 1200px;         
+    margin: 0 auto;            
+    padding: 30px 40px;        
+    border-radius: 20px;      
+    box-shadow: 0 0 20px rgba(0,0,0,0.1); 
+}
